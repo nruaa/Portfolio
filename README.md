@@ -7,5 +7,5 @@
 6. Sound the Alarm: Detection and Response
 7. Automate Cybersecurity Tasks with Python
 8. Put It to Work: Prepare for Cybersecurity Jobs
-<h1>Foundations of Cybersecurity</h1>
+
 
